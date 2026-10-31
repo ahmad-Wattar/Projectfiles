@@ -46,6 +46,6 @@ Software modeling and design of a Mill game system using UML and the Model–Vie
 
 ## Purpose
 
-This repository brings together selected examples of my academic and research work in clinical natural language processing, large language models, bioinformatics, and software engineering.
+This repository brings together selected examples of my academic and research work 
 
 **University:** Martin Luther University Halle-Wittenberg
